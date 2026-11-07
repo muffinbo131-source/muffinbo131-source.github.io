@@ -1,0 +1,5 @@
+body{font-family:-apple-system,Helvetica,Arial,sans-serif;max-width:46rem;margin:2rem auto;padding:0 1rem;line-height:1.55;color:#1c2330;background:#fff}
+h1{font-size:1.7rem}h2{font-size:1.2rem;margin-top:2rem}
+.todo{background:#fff3b0;padding:0 .2em;border-radius:3px}
+nav a{margin-right:1rem}
+@media (prefers-color-scheme:dark){body{background:#10151f;color:#e6edf3}.todo{background:#6b5a00}a{color:#8ecbff}}
