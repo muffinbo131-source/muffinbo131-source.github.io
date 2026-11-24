@@ -1,0 +1,7 @@
+body{font-family:-apple-system,"Helvetica Neue",Helvetica,Arial,sans-serif;max-width:46rem;margin:2rem auto;padding:0 1rem;line-height:1.6;color:#2a1d16;background:#fbf6ee}
+h1{font-size:1.8rem;color:#8f2d19;margin-bottom:.2rem}h2{font-size:1.2rem;margin-top:2rem;color:#8f2d19}
+.unter{color:#6f553b;margin-top:0}
+nav{margin-bottom:1.5rem}nav a{margin-right:1rem;color:#8f2d19}
+a{color:#8f2d19}
+.sprache{border-top:1px solid #e0d2bd;margin-top:2.5rem;padding-top:1rem}
+@media (prefers-color-scheme:dark){body{background:#17110d;color:#efe4d6}h1,h2,a,nav a{color:#f0a072}.unter{color:#c2ab92}.sprache{border-color:#3a2c22}}
